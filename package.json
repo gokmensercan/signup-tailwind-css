@@ -1,0 +1,8 @@
+{
+  "name": "signup-tailwind-css",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gokmensercan/signup-tailwind-css.git",
+  "author": "Sercan GÖKMEN <gokmensercan@gmail.com>",
+  "license": "MIT"
+}
