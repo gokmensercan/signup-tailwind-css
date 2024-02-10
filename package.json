@@ -1,0 +1,14 @@
+{
+  "name": "signup-tailwind-css",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "repository": "https://github.com/gokmensercan/signup-tailwind-css.git",
+  "author": "Sercan GÖKMEN <gokmensercan@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
